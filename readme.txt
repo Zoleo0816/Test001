@@ -5,3 +5,4 @@ Git is free software.
 hello
 test
 Creating a new branch is quick AND simple.
+add merge
